@@ -1,0 +1,11 @@
+org\example\mychaincode\cat\CatQueryResultList.class
+org\example\mychaincode\cat\PrivateCat.class
+org\example\mychaincode\cat\CatContract.class
+org\example\mychaincode\cat\CatQueryPageResult.class
+org\example\mychaincode\cat\CatQueryResult.class
+org\example\mychaincode\simple\MyJavaChaincode.class
+org\example\mychaincode\cat\UserContract.class
+org\example\mychaincode\cat\UserInfo.class
+org\example\mychaincode\cat\ValidationJSONTransactionSerializer.class
+org\example\mychaincode\cat\EviFile.class
+org\example\mychaincode\cat\Cat.class
